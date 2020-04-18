@@ -11,9 +11,9 @@
 
 # GoStack 11: Desafio Conceitos ReactJS
 
-Terceiro desafio do bootcamp GoStack 11: Conceitos React.js
+Terceiro desafio do bootcamp GoStack 11: Conceitos React JS
 
-_Thrid challenge of the GoStack 11 bootcamp: ReactJS Concepts_
+_Thrid challenge of the GoStack 11 bootcamp: React JS Concepts_
 
 ## Getting Started
 
